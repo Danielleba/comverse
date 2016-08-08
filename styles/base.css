@@ -1,0 +1,9 @@
+.slider-inner{
+    width:99999999px;
+    margin-left: -300px;
+}
+.sildes{
+  width: 300px;
+  outline: 2px solid blue;
+  overflow: hidden;
+}
